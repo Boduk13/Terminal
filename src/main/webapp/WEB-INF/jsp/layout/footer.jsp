@@ -1,0 +1,1 @@
+<div style="height: 50px; background-color: black; text-align: center; color: #dddddd">Footer</div>
